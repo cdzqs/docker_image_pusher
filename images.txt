@@ -3,4 +3,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-
+--platform=linux/amd64 xhofe/alist
+--platform=linux/amd64 teddysun/v2ray
+--platform=linux/amd64 p3terx/aria2-pro
+--platform=linux/amd64 jellyfin/jellyfin
+--platform=linux/amd64 adguard/adguardhome
+--platform=linux/amd64 photoprism/photoprism
